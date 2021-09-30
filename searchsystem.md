@@ -5,3 +5,6 @@ https://www.youtube.com/watch?v=yZJfsUOHJjg&ab_channel=CodingExplained
 
 We will be using Logstash to synchronize MySQL and Elasticsearch.
 https://towardsdatascience.com/how-to-synchronize-elasticsearch-with-mysql-ed32fc57b339
+
+
+https://hackernoon.com/elasticsearch-in-java-spring-boot-starter-pack-3kx330h
